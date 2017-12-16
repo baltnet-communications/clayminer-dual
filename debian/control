@@ -1,0 +1,14 @@
+Source: clayminer-dual
+Section: misc
+Priority: optional
+Maintainer: Baltnet Communications <info@baltnet.ee>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/nanopool/Claymore-Dual-Miner
+Vcs-Git: git@github.com:baltnet-communications/ethminer.git
+Vcs-Browser: https://github.com/baltnet-communications/ethminer.git
+
+Package: clayminer-dual
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Claymore's Dual Ethereum+Decred AMD+NVIDIA GPU Miner
