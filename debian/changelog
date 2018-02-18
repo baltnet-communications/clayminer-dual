@@ -1,5 +1,6 @@
-clayminer-dual (10.0.0-1) unstable; urgency=medium
+clayminer-dual (1.0.0) unstable; urgency=medium
 
   * Initial release
+  * Using Claymore Dual Miner binaries v10.0.0
 
- -- The Ranger <ranger@risk.ee>  Tue, 16 Dec 2017 21:36:52 +0200
+ -- The Ranger <ranger@risk.ee>  Sun, 18 Feb 2018 12:33:24 +0200
