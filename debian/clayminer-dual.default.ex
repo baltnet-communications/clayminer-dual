@@ -1,6 +1,6 @@
-# Defaults for ethminer initscript
-# sourced by /etc/init.d/ethminer
-# installed at /etc/default/ethminer by the maintainer scripts
+# Defaults for clayminer-dual initscript
+# sourced by /etc/init.d/clayminer-dual
+# installed at /etc/default/clayminer-dual by the maintainer scripts
 
 #
 # This is a POSIX shell fragment
