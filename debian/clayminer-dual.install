@@ -1,1 +1,1 @@
-bin/*.bin usr/share/clayminer-dual/
+bin/* usr/share/clayminer-dual/
