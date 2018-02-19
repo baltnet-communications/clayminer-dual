@@ -2,3 +2,6 @@
 
 %:
 	dh $@
+
+override_dh_gencontrol:
+	dh_gencontrol -- -v$(shell dpkg-parsechangelog --show-field Version)~$(shell lsb_release -csu || lsb_release -cs)
