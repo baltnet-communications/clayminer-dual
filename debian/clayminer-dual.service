@@ -4,4 +4,4 @@ After=network-online.target
 
 [Service]
 Environment='OPTS=-dbg -1'
-ExecStart=/usr/share/clayminer-dual/ethdcrminer64 $OPTS
+ExecStart=/opt/clayminer-dual/ethdcrminer64 $OPTS
