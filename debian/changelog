@@ -1,3 +1,10 @@
+clayminer-dual (1.0.1) stable; urgency=medium
+
+  * Do not enable installing along conflicting packages
+  * Fix systemd service installation
+
+ -- The Ranger <ranger@risk.ee>  Sat, 03 Mar 2018 21:27:12 +0200
+
 clayminer-dual (1.0.0) unstable; urgency=medium
 
   * Initial release
