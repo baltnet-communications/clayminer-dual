@@ -1,7 +1,7 @@
 # About This Project
-This project packages a Claymore Dual Miner binary distribution into standard Debian package for simplifying installation and maintenance.
+This project packages Claymore's Dual Ethereum+Decred AMD+GPU Miner binary distribution into standard Debian package to simplify installation and maintenance.
 
-Upon installation, all miner files are copied into `/usr/share/clayminer-dual` directory. Also, `systemd` scripts are created so that the miner can be started automatically on boot.
+During installation, miner files are copied into `/opt/clayminer-dual` folder and a `systemd` service will be created so that miner can be started automatically on boot.
 
 # Installation
 Please visit http://pkg.baltnet.net for instructions how to configure Baltnet repository and install this package.
