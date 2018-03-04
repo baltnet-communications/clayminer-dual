@@ -1,3 +1,9 @@
+clayminer-dual (1.0.2) stable; urgency=medium
+
+  * Use metapackage naming to deetect conflicts between miners.
+
+ -- The Ranger <ranger@risk.ee>  Sun, 04 Mar 2018 15:00:23 +0200
+
 clayminer-dual (1.0.1) stable; urgency=medium
 
   * Do not enable installing along conflicting packages
